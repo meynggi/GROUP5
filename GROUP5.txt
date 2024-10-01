@@ -1,7 +1,7 @@
-Concepcion, Angela Abadiano
-Agonos, Jayson Foliente
-Esteve, Jazzmine Sagales
-Bonayon, Joseph Ivan Juliano
-Atenciana, Sharmaine De Leon
-Escoto, Beatrice Aquino
-Lopez, Aizel Joy Panganiban
+Concepcion, Angela Abadiano - Quality Assurance Engineer
+Agonos, Jayson Foliente - Quality Assurance Engineer
+Esteve, Jazzmine Sagales - App/Cloud Support Associate
+Bonayon, Joseph Ivan Juliano - App/Cloud Support Associate
+Atenciana, Sharmaine De Leon - App/Cloud Support Associate
+Escoto, Beatrice Aquino - JAVA Capability
+Lopez, Aizel Joy Panganiban - JAVA Capability
